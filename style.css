@@ -1,0 +1,45 @@
+body {background-image: url(https://media.istockphoto.com/photos/aerial-view-of-misty-mountains-at-sunrise-picture-id1195458582?b=1&k=6&m=1195458582&s=170667a&w=0&h=M75r29SlTLn7XmpztKCbhQSEdgofSacnPxxlh7f7GuI=);}
+body {background-size: cover;}
+.u1 {color: hsl(166, 47%, 20%);}
+h4 {color: brown;}
+p {color: bisque;}
+h2 {color: #ff0000;}
+span {color: rgb(255, 150, 150);background-color: black;}
+h5 {color: rgb(9, 26, 26);background-color: cadetblue;}
+header {
+    text-align: center;
+    margin: auto;
+    
+}
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+    td, th {
+    border: 2px solid #e79393;
+    text-align: center;
+    padding: 20px;
+}
+.u2 {color: greenyellow;}
+.u3 {color: rgb(255, 31, 188);}
+.u4 {color: coral;}
+.u5 {color: lawngreen;}
+.u6 {color: violet;}
+.u7 {color: #8d50ff;}
+.u8 {color: mediumvioletred;}
+.u9 {color: deepskyblue;}
+.t1 {color: antiquewhite;}
+.t2 {color: darkviolet;}
+.t3 {color: rgb(104, 250, 213);}
+.t4 {color: rgb(193, 193, 252);}
+.t5 {color: hotpink;}
+.t6 {color: crimson;}
+.t7 {color: darkkhaki;}
+.o1 {color: orange;}
+.o2 {color: violet;}
+.o3 {color: aqua;}
+.o11 {color: bisque;}
+.o22 {color: coral;}
+.o33 {color: darkmagenta;}
